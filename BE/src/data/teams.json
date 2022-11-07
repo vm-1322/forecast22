@@ -1,0 +1,194 @@
+[
+  {
+    "code": "ARG",
+    "name": "Argentina",
+    "flag": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/ARG",
+    "link": ""
+  },
+  {
+    "code": "AUS",
+    "name": "Australia",
+    "flag": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/AUS",
+    "link": ""
+  },
+  {
+    "code": "BEL",
+    "name": "Belgium",
+    "flag": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/BEL",
+    "link": "https://www.rbfa.be/en"
+  },
+  {
+    "code": "BRA",
+    "name": "Brazil",
+    "flag": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/BRA",
+    "link": ""
+  },
+  {
+    "code": "CMR",
+    "name": "Cameroon",
+    "flag": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/CMR",
+    "link": ""
+  },
+  {
+    "code": "CAN",
+    "name": "Canada",
+    "flag": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/CAN",
+    "link": ""
+  },
+  {
+    "code": "CRC",
+    "name": "Costa Rica",
+    "flag": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/CRC",
+    "link": ""
+  },
+  {
+    "code": "CRO",
+    "name": "Croatia",
+    "flag": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/CRO",
+    "link": "https://hns-cff.hr/en/"
+  },
+  {
+    "code": "DEN",
+    "name": "Denmark",
+    "flag": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/DEN",
+    "link": "https://www.dbu.dk/"
+  },
+  {
+    "code": "ECU",
+    "name": "Ecuador",
+    "flag": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/ECU",
+    "link": ""
+  },
+  {
+    "code": "ENG",
+    "name": "England",
+    "flag": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/ENG",
+    "link": ""
+  },
+  {
+    "code": "FRA",
+    "name": "France",
+    "flag": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/FRA",
+    "link": "https://uk.fff.fr/"
+  },
+  {
+    "code": "GER",
+    "name": "Germany",
+    "flag": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/GER",
+    "link": "https://www.dfb.de/en/en-start/"
+  },
+  {
+    "code": "GHA",
+    "name": "Ghana",
+    "flag": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/GHA",
+    "link": ""
+  },
+  {
+    "code": "IRN",
+    "name": "IR Iran",
+    "flag": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/IRN",
+    "link": ""
+  },
+  {
+    "code": "JPN",
+    "name": "Japan",
+    "flag": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/JPN",
+    "link": ""
+  },
+  {
+    "code": "KOR",
+    "name": "Korea Republic",
+    "flag": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/KOR",
+    "link": ""
+  },
+  {
+    "code": "MEX",
+    "name": "Mexico",
+    "flag": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/MEX",
+    "link": ""
+  },
+  {
+    "code": "MAR",
+    "name": "Morocco",
+    "flag": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/MAR",
+    "link": ""
+  },
+  {
+    "code": "NED",
+    "name": "Netherlands",
+    "flag": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/NED",
+    "link": "https://www.knvb.com/"
+  },
+  {
+    "code": "POL",
+    "name": "Poland",
+    "flag": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/POL",
+    "link": "https://www.pzpn.pl/en"
+  },
+  {
+    "code": "POR",
+    "name": "Portugal",
+    "flag": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/POR",
+    "link": "https://www.fpf.pt/pt/"
+  },
+  {
+    "code": "QAT",
+    "name": "Qatar",
+    "flag": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/QAT",
+    "link": ""
+  },
+  {
+    "code": "KSA",
+    "name": "Saudi Arabia",
+    "flag": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/KSA",
+    "link": ""
+  },
+  {
+    "code": "SEN",
+    "name": "Senegal",
+    "flag": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/SEN",
+    "link": ""
+  },
+  {
+    "code": "SRB",
+    "name": "Serbia",
+    "flag": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/SRB",
+    "link": "https://fss.rs/en/"
+  },
+  {
+    "code": "ESP",
+    "name": "Spain",
+    "flag": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/ESP",
+    "link": "https://rfef.es/en"
+  },
+  {
+    "code": "SUI",
+    "name": "Switzerland",
+    "flag": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/SUI",
+    "link": "https://www.football.ch/sfv.aspx"
+  },
+  {
+    "code": "TUN",
+    "name": "Tunisia",
+    "flag": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/TUN",
+    "link": ""
+  },
+  {
+    "code": "URU",
+    "name": "Uruguay",
+    "flag": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/URU",
+    "link": ""
+  },
+  {
+    "code": "USA",
+    "name": "USA",
+    "flag": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/USA",
+    "link": ""
+  },
+  {
+    "code": "WAL",
+    "name": "Wales",
+    "flag": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/WAL",
+    "link": "https://www.faw.cymru/en/"
+  }
+]

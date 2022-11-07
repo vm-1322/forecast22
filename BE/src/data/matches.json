@@ -1,0 +1,626 @@
+[
+  {
+    "date": 1668960000000,
+    "team1": "QAT",
+    "team2": "ECU",
+    "result1": "",
+    "result2": "",
+    "stage": {
+      "kind": "GS",
+      "groupRound": "A"
+    },
+    "matchStatus": "Forecast",
+    "forecast": true
+  },
+  {
+    "date": 1669035600000,
+    "team1": "ENG",
+    "team2": "IRN",
+    "result1": "",
+    "result2": "",
+    "stage": {
+      "kind": "GS",
+      "groupRound": "B"
+    },
+    "matchStatus": "Forecast",
+    "forecast": false
+  },
+  {
+    "date": 1669046400000,
+    "team1": "SEN",
+    "team2": "NED",
+    "result1": "",
+    "result2": "",
+    "stage": {
+      "kind": "GS",
+      "groupRound": "A"
+    },
+    "matchStatus": "Forecast",
+    "forecast": false
+  },
+  {
+    "date": 1669057200000,
+    "team1": "USA",
+    "team2": "WAL",
+    "result1": "",
+    "result2": "",
+    "stage": {
+      "kind": "GS",
+      "groupRound": "B"
+    },
+    "matchStatus": "Forecast",
+    "forecast": false
+  },
+  {
+    "date": 1669111200000,
+    "team1": "ARG",
+    "team2": "KSA",
+    "result1": "",
+    "result2": "",
+    "stage": {
+      "kind": "GS",
+      "groupRound": "C"
+    },
+    "matchStatus": "Forecast",
+    "forecast": false
+  },
+  {
+    "date": 1669122000000,
+    "team1": "DEN",
+    "team2": "TUN",
+    "result1": "",
+    "result2": "",
+    "stage": {
+      "kind": "GS",
+      "groupRound": "D"
+    },
+    "matchStatus": "Forecast",
+    "forecast": false
+  },
+  {
+    "date": 1669132800000,
+    "team1": "MEX",
+    "team2": "POL",
+    "result1": "",
+    "result2": "",
+    "stage": {
+      "kind": "GS",
+      "groupRound": "C"
+    },
+    "matchStatus": "Forecast",
+    "forecast": false
+  },
+  {
+    "date": 1669143600000,
+    "team1": "FRA",
+    "team2": "AUS",
+    "result1": "",
+    "result2": "",
+    "stage": {
+      "kind": "GS",
+      "groupRound": "D"
+    },
+    "matchStatus": "Forecast",
+    "forecast": false
+  },
+  {
+    "date": 1669197600000,
+    "team1": "MAR",
+    "team2": "CRO",
+    "result1": "",
+    "result2": "",
+    "stage": {
+      "kind": "GS",
+      "groupRound": "F"
+    },
+    "matchStatus": "Forecast",
+    "forecast": false
+  },
+  {
+    "date": 1669208400000,
+    "team1": "GER",
+    "team2": "JPN",
+    "result1": "",
+    "result2": "",
+    "stage": {
+      "kind": "GS",
+      "groupRound": "E"
+    },
+    "matchStatus": "Forecast",
+    "forecast": false
+  },
+  {
+    "date": 1669219200000,
+    "team1": "ESP",
+    "team2": "CRC",
+    "result1": "",
+    "result2": "",
+    "stage": {
+      "kind": "GS",
+      "groupRound": "E"
+    },
+    "matchStatus": "Forecast",
+    "forecast": false
+  },
+  {
+    "date": 1669230000000,
+    "team1": "BEL",
+    "team2": "CAN",
+    "result1": "",
+    "result2": "",
+    "stage": {
+      "kind": "GS",
+      "groupRound": "F"
+    },
+    "matchStatus": "Forecast",
+    "forecast": false
+  },
+  {
+    "date": 1669284000000,
+    "team1": "SUI",
+    "team2": "CMR",
+    "result1": "",
+    "result2": "",
+    "stage": {
+      "kind": "GS",
+      "groupRound": "G"
+    },
+    "matchStatus": "Forecast",
+    "forecast": false
+  },
+  {
+    "date": 1669294800000,
+    "team1": "URU",
+    "team2": "KOR",
+    "result1": "",
+    "result2": "",
+    "stage": {
+      "kind": "GS",
+      "groupRound": "H"
+    },
+    "matchStatus": "Forecast",
+    "forecast": false
+  },
+  {
+    "date": 1669305600000,
+    "team1": "POR",
+    "team2": "GHA",
+    "result1": "",
+    "result2": "",
+    "stage": {
+      "kind": "GS",
+      "groupRound": "H"
+    },
+    "matchStatus": "Forecast",
+    "forecast": false
+  },
+  {
+    "date": 1669316400000,
+    "team1": "BRA",
+    "team2": "SRB",
+    "result1": "",
+    "result2": "",
+    "stage": {
+      "kind": "GS",
+      "groupRound": "G"
+    },
+    "matchStatus": "Forecast",
+    "forecast": false
+  },
+  {
+    "date": 1669370400000,
+    "team1": "WAL",
+    "team2": "IRN",
+    "result1": "",
+    "result2": "",
+    "stage": {
+      "kind": "GS",
+      "groupRound": "B"
+    },
+    "matchStatus": "Forecast",
+    "forecast": false
+  },
+  {
+    "date": 1669381200000,
+    "team1": "QAT",
+    "team2": "SEN",
+    "result1": "",
+    "result2": "",
+    "stage": {
+      "kind": "GS",
+      "groupRound": "A"
+    },
+    "matchStatus": "Forecast",
+    "forecast": false
+  },
+  {
+    "date": 1669392000000,
+    "team1": "NED",
+    "team2": "ECU",
+    "result1": "",
+    "result2": "",
+    "stage": {
+      "kind": "GS",
+      "groupRound": "A"
+    },
+    "matchStatus": "Forecast",
+    "forecast": false
+  },
+  {
+    "date": 1669402800000,
+    "team1": "ENG",
+    "team2": "USA",
+    "result1": "",
+    "result2": "",
+    "stage": {
+      "kind": "GS",
+      "groupRound": "B"
+    },
+    "matchStatus": "Forecast",
+    "forecast": false
+  },
+  {
+    "date": 1669456800000,
+    "team1": "TUN",
+    "team2": "AUS",
+    "result1": "",
+    "result2": "",
+    "stage": {
+      "kind": "GS",
+      "groupRound": "D"
+    },
+    "matchStatus": "Forecast",
+    "forecast": false
+  },
+  {
+    "date": 1669467600000,
+    "team1": "POL",
+    "team2": "KSA",
+    "result1": "",
+    "result2": "",
+    "stage": {
+      "kind": "GS",
+      "groupRound": "C"
+    },
+    "matchStatus": "Forecast",
+    "forecast": false
+  },
+  {
+    "date": 1669478400000,
+    "team1": "FRA",
+    "team2": "DEN",
+    "result1": "",
+    "result2": "",
+    "stage": {
+      "kind": "GS",
+      "groupRound": "D"
+    },
+    "matchStatus": "Forecast",
+    "forecast": false
+  },
+  {
+    "date": 1669489200000,
+    "team1": "ARG",
+    "team2": "MEX",
+    "result1": "",
+    "result2": "",
+    "stage": {
+      "kind": "GS",
+      "groupRound": "C"
+    },
+    "matchStatus": "Forecast",
+    "forecast": false
+  },
+  {
+    "date": 1669543200000,
+    "team1": "JPN",
+    "team2": "CRC",
+    "result1": "",
+    "result2": "",
+    "stage": {
+      "kind": "GS",
+      "groupRound": "E"
+    },
+    "matchStatus": "Forecast",
+    "forecast": false
+  },
+  {
+    "date": 1669554000000,
+    "team1": "BEL",
+    "team2": "MAR",
+    "result1": "",
+    "result2": "",
+    "stage": {
+      "kind": "GS",
+      "groupRound": "F"
+    },
+    "matchStatus": "Forecast",
+    "forecast": false
+  },
+  {
+    "date": 1669564800000,
+    "team1": "CRO",
+    "team2": "CAN",
+    "result1": "",
+    "result2": "",
+    "stage": {
+      "kind": "GS",
+      "groupRound": "F"
+    },
+    "matchStatus": "Forecast",
+    "forecast": false
+  },
+  {
+    "date": 1669575600000,
+    "team1": "ESP",
+    "team2": "GER",
+    "result1": "",
+    "result2": "",
+    "stage": {
+      "kind": "GS",
+      "groupRound": "E"
+    },
+    "matchStatus": "Forecast",
+    "forecast": true
+  },
+  {
+    "date": 1669629600000,
+    "team1": "CMR",
+    "team2": "SRB",
+    "result1": "",
+    "result2": "",
+    "stage": {
+      "kind": "GS",
+      "groupRound": "G"
+    },
+    "matchStatus": "Forecast",
+    "forecast": false
+  },
+  {
+    "date": 1669640400000,
+    "team1": "KOR",
+    "team2": "GHA",
+    "result1": "",
+    "result2": "",
+    "stage": {
+      "kind": "GS",
+      "groupRound": "H"
+    },
+    "matchStatus": "Forecast",
+    "forecast": false
+  },
+  {
+    "date": 1669651200000,
+    "team1": "BRA",
+    "team2": "SUI",
+    "result1": "",
+    "result2": "",
+    "stage": {
+      "kind": "GS",
+      "groupRound": "G"
+    },
+    "matchStatus": "Forecast",
+    "forecast": false
+  },
+  {
+    "date": 1669662000000,
+    "team1": "POR",
+    "team2": "URU",
+    "result1": "",
+    "result2": "",
+    "stage": {
+      "kind": "GS",
+      "groupRound": "H"
+    },
+    "matchStatus": "Forecast",
+    "forecast": false
+  },
+  {
+    "date": 1669734000000,
+    "team1": "ECU",
+    "team2": "SEN",
+    "result1": "",
+    "result2": "",
+    "stage": {
+      "kind": "GS",
+      "groupRound": "A"
+    },
+    "matchStatus": "Forecast",
+    "forecast": false
+  },
+  {
+    "date": 1669734000000,
+    "team1": "NED",
+    "team2": "QAT",
+    "result1": "",
+    "result2": "",
+    "stage": {
+      "kind": "GS",
+      "groupRound": "A"
+    },
+    "matchStatus": "Forecast",
+    "forecast": false
+  },
+  {
+    "date": 1669748400000,
+    "team1": "IRN",
+    "team2": "USA",
+    "result1": "",
+    "result2": "",
+    "stage": {
+      "kind": "GS",
+      "groupRound": "B"
+    },
+    "matchStatus": "Forecast",
+    "forecast": false
+  },
+  {
+    "date": 1669748400000,
+    "team1": "WAL",
+    "team2": "ENG",
+    "result1": "",
+    "result2": "",
+    "stage": {
+      "kind": "GS",
+      "groupRound": "B"
+    },
+    "matchStatus": "Forecast",
+    "forecast": true
+  },
+  {
+    "date": 1669820400000,
+    "team1": "AUS",
+    "team2": "DEN",
+    "result1": "",
+    "result2": "",
+    "stage": {
+      "kind": "GS",
+      "groupRound": "D"
+    },
+    "matchStatus": "Forecast",
+    "forecast": false
+  },
+  {
+    "date": 1669820400000,
+    "team1": "TUN",
+    "team2": "FRA",
+    "result1": "",
+    "result2": "",
+    "stage": {
+      "kind": "GS",
+      "groupRound": "D"
+    },
+    "matchStatus": "Forecast",
+    "forecast": false
+  },
+  {
+    "date": 1669834800000,
+    "team1": "POL",
+    "team2": "ARG",
+    "result1": "",
+    "result2": "",
+    "stage": {
+      "kind": "GS",
+      "groupRound": "C"
+    },
+    "matchStatus": "Forecast",
+    "forecast": true
+  },
+  {
+    "date": 1669834800000,
+    "team1": "KSA",
+    "team2": "MEX",
+    "result1": "",
+    "result2": "",
+    "stage": {
+      "kind": "GS",
+      "groupRound": "C"
+    },
+    "matchStatus": "Forecast",
+    "forecast": false
+  },
+  {
+    "date": 1669906800000,
+    "team1": "CAN",
+    "team2": "MAR",
+    "result1": "",
+    "result2": "",
+    "stage": {
+      "kind": "GS",
+      "groupRound": "F"
+    },
+    "matchStatus": "Forecast",
+    "forecast": false
+  },
+  {
+    "date": 1669906800000,
+    "team1": "CRO",
+    "team2": "BEL",
+    "result1": "",
+    "result2": "",
+    "stage": {
+      "kind": "GS",
+      "groupRound": "F"
+    },
+    "matchStatus": "Forecast",
+    "forecast": true
+  },
+  {
+    "date": 1669921200000,
+    "team1": "CRC",
+    "team2": "GER",
+    "result1": "",
+    "result2": "",
+    "stage": {
+      "kind": "GS",
+      "groupRound": "E"
+    },
+    "matchStatus": "Forecast",
+    "forecast": false
+  },
+  {
+    "date": 1669921200000,
+    "team1": "JPN",
+    "team2": "ESP",
+    "result1": "",
+    "result2": "",
+    "stage": {
+      "kind": "GS",
+      "groupRound": "E"
+    },
+    "matchStatus": "Forecast",
+    "forecast": false
+  },
+  {
+    "date": 1669993200000,
+    "team1": "GHA",
+    "team2": "URU",
+    "result1": "",
+    "result2": "",
+    "stage": {
+      "kind": "GS",
+      "groupRound": "H"
+    },
+    "matchStatus": "Forecast",
+    "forecast": false
+  },
+  {
+    "date": 1669993200000,
+    "team1": "KOR",
+    "team2": "POR",
+    "result1": "",
+    "result2": "",
+    "stage": {
+      "kind": "GS",
+      "groupRound": "H"
+    },
+    "matchStatus": "Forecast",
+    "forecast": false
+  },
+  {
+    "date": 1670007600000,
+    "team1": "CMR",
+    "team2": "BRA",
+    "result1": "",
+    "result2": "",
+    "stage": {
+      "kind": "GS",
+      "groupRound": "G"
+    },
+    "matchStatus": "Forecast",
+    "forecast": false
+  },
+  {
+    "date": 1670007600000,
+    "team1": "SRB",
+    "team2": "SUI",
+    "result1": "",
+    "result2": "",
+    "stage": {
+      "kind": "GS",
+      "groupRound": "G"
+    },
+    "matchStatus": "Forecast",
+    "forecast": false
+  }
+]
