@@ -56,8 +56,6 @@ module.exports = (env) => {
       },
 
       devtool: 'source-map',
-
-      watch: true,
     }),
   };
 };
