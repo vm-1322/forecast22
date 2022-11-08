@@ -1,6 +1,6 @@
 import * as db from '../db';
+import TeamModel from '../models/TeamModel';
 
-const TeamModel = require('../models/TeamModel');
 const teams = require('../data/teams.json');
 
 const createTeams = async () => {

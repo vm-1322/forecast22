@@ -50,4 +50,4 @@ const MatchSchema = new Schema<IMatch>({
   },
 });
 
-module.exports = model('Match', MatchSchema);
+export default model('Match', MatchSchema);
