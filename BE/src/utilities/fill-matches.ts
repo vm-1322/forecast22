@@ -1,13 +1,13 @@
 import * as db from '../db';
 import { IMatch } from '../types';
+import MatchModel from '../models/MatchModel';
 
-const MatchesModel = require('../models/MatchModel');
 const matches = require('../data/matches.json');
 
 const createTeams = async () => {
-  MatchesModel.deleteMany({}, () => {});
+  MatchModel.deleteMany({}, () => {});
 
-  MatchesModel.insertMany(
+  MatchModel.insertMany(
     matches.map((item: IMatch) => ({
       date: item.date,
       team1: item.team1,
