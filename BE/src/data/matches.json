@@ -7,10 +7,12 @@
     "result2": "",
     "stage": {
       "kind": "GS",
-      "groupRound": "A"
+      "groupRound": "A",
+      "round": 1
     },
     "matchStatus": "Forecast",
-    "forecast": true
+    "forecast": true,
+    "linkToBet": "https://www.marathonbet.com/en/betting/Football/Internationals/FIFA+World+Cup/2022/Final+Tournament/Qatar/Group+Stage/Qatar+vs+Ecuador+-+13423472"
   },
   {
     "date": 1669035600000,
@@ -20,10 +22,12 @@
     "result2": "",
     "stage": {
       "kind": "GS",
-      "groupRound": "B"
+      "groupRound": "B",
+      "round": 1
     },
     "matchStatus": "Forecast",
-    "forecast": false
+    "forecast": false,
+    "linkToBet": "https://www.marathonbet.com/en/betting/Football/Internationals/FIFA+World+Cup/2022/Final+Tournament/Qatar/Group+Stage/England+vs+Iran+-+13423778"
   },
   {
     "date": 1669046400000,
@@ -33,10 +37,12 @@
     "result2": "",
     "stage": {
       "kind": "GS",
-      "groupRound": "A"
+      "groupRound": "A",
+      "round": 1
     },
     "matchStatus": "Forecast",
-    "forecast": false
+    "forecast": false,
+    "linkToBet": "https://www.marathonbet.com/en/betting/Football/Internationals/FIFA+World+Cup/2022/Final+Tournament/Qatar/Group+Stage/Senegal+vs+Netherlands+-+13423777"
   },
   {
     "date": 1669057200000,
@@ -46,10 +52,12 @@
     "result2": "",
     "stage": {
       "kind": "GS",
-      "groupRound": "B"
+      "groupRound": "B",
+      "round": 1
     },
     "matchStatus": "Forecast",
-    "forecast": false
+    "forecast": false,
+    "linkToBet": "https://www.marathonbet.com/en/betting/Football/Internationals/FIFA+World+Cup/2022/Final+Tournament/Qatar/Group+Stage/USA+vs+Wales+-+13785253"
   },
   {
     "date": 1669111200000,
@@ -59,10 +67,12 @@
     "result2": "",
     "stage": {
       "kind": "GS",
-      "groupRound": "C"
+      "groupRound": "C",
+      "round": 1
     },
     "matchStatus": "Forecast",
-    "forecast": false
+    "forecast": false,
+    "linkToBet": "https://www.marathonbet.com/en/betting/Football/Internationals/FIFA+World+Cup/2022/Final+Tournament/Qatar/Group+Stage/Argentina+vs+Saudi+Arabia+-+13423779"
   },
   {
     "date": 1669122000000,
@@ -72,10 +82,12 @@
     "result2": "",
     "stage": {
       "kind": "GS",
-      "groupRound": "D"
+      "groupRound": "D",
+      "round": 1
     },
     "matchStatus": "Forecast",
-    "forecast": false
+    "forecast": false,
+    "linkToBet": "https://www.marathonbet.com/en/betting/Football/Internationals/FIFA+World+Cup/2022/Final+Tournament/Qatar/Group+Stage/Denmark+vs+Tunisia+-+13423808"
   },
   {
     "date": 1669132800000,
@@ -85,10 +97,12 @@
     "result2": "",
     "stage": {
       "kind": "GS",
-      "groupRound": "C"
+      "groupRound": "C",
+      "round": 1
     },
     "matchStatus": "Forecast",
-    "forecast": false
+    "forecast": false,
+    "linkToBet": "https://www.marathonbet.com/en/betting/Football/Internationals/FIFA+World+Cup/2022/Final+Tournament/Qatar/Group+Stage/Mexico+vs+Poland+-+13423784"
   },
   {
     "date": 1669143600000,
@@ -98,10 +112,12 @@
     "result2": "",
     "stage": {
       "kind": "GS",
-      "groupRound": "D"
+      "groupRound": "D",
+      "round": 1
     },
     "matchStatus": "Forecast",
-    "forecast": false
+    "forecast": false,
+    "linkToBet": "https://www.marathonbet.com/en/betting/Football/Internationals/FIFA+World+Cup/2022/Final+Tournament/Qatar/Group+Stage/France+vs+Australia+-+13827439"
   },
   {
     "date": 1669197600000,
@@ -111,10 +127,12 @@
     "result2": "",
     "stage": {
       "kind": "GS",
-      "groupRound": "F"
+      "groupRound": "F",
+      "round": 1
     },
     "matchStatus": "Forecast",
-    "forecast": false
+    "forecast": false,
+    "linkToBet": "https://www.marathonbet.com/en/betting/Football/Internationals/FIFA+World+Cup/2022/Final+Tournament/Qatar/Group+Stage/Morocco+vs+Croatia+-+13423935"
   },
   {
     "date": 1669208400000,
@@ -124,10 +142,12 @@
     "result2": "",
     "stage": {
       "kind": "GS",
-      "groupRound": "E"
+      "groupRound": "E",
+      "round": 1
     },
     "matchStatus": "Forecast",
-    "forecast": false
+    "forecast": false,
+    "linkToBet": "https://www.marathonbet.com/en/betting/Football/Internationals/FIFA+World+Cup/2022/Final+Tournament/Qatar/Group+Stage/Germany+vs+Japan+-+13423900"
   },
   {
     "date": 1669219200000,
@@ -137,10 +157,12 @@
     "result2": "",
     "stage": {
       "kind": "GS",
-      "groupRound": "E"
+      "groupRound": "E",
+      "round": 1
     },
     "matchStatus": "Forecast",
-    "forecast": false
+    "forecast": false,
+    "linkToBet": "https://www.marathonbet.com/en/betting/Football/Internationals/FIFA+World+Cup/2022/Final+Tournament/Qatar/Group+Stage/Spain+vs+Costa+Rica+-+13833062"
   },
   {
     "date": 1669230000000,
@@ -150,10 +172,12 @@
     "result2": "",
     "stage": {
       "kind": "GS",
-      "groupRound": "F"
+      "groupRound": "F",
+      "round": 1
     },
     "matchStatus": "Forecast",
-    "forecast": false
+    "forecast": false,
+    "linkToBet": "https://www.marathonbet.com/en/betting/Football/Internationals/FIFA+World+Cup/2022/Final+Tournament/Qatar/Group+Stage/Belgium+vs+Canada+-+13423923"
   },
   {
     "date": 1669284000000,
@@ -163,10 +187,12 @@
     "result2": "",
     "stage": {
       "kind": "GS",
-      "groupRound": "G"
+      "groupRound": "G",
+      "round": 1
     },
     "matchStatus": "Forecast",
-    "forecast": false
+    "forecast": false,
+    "linkToBet": "https://www.marathonbet.com/en/betting/Football/Internationals/FIFA+World+Cup/2022/Final+Tournament/Qatar/Group+Stage/Switzerland+vs+Cameroon+-+13423980"
   },
   {
     "date": 1669294800000,
@@ -176,10 +202,12 @@
     "result2": "",
     "stage": {
       "kind": "GS",
-      "groupRound": "H"
+      "groupRound": "H",
+      "round": 1
     },
     "matchStatus": "Forecast",
-    "forecast": false
+    "forecast": false,
+    "linkToBet": "https://www.marathonbet.com/en/betting/Football/Internationals/FIFA+World+Cup/2022/Final+Tournament/Qatar/Group+Stage/Uruguay+vs+Korea+Republic+-+13424004"
   },
   {
     "date": 1669305600000,
@@ -189,10 +217,12 @@
     "result2": "",
     "stage": {
       "kind": "GS",
-      "groupRound": "H"
+      "groupRound": "H",
+      "round": 1
     },
     "matchStatus": "Forecast",
-    "forecast": false
+    "forecast": false,
+    "linkToBet": "https://www.marathonbet.com/en/betting/Football/Internationals/FIFA+World+Cup/2022/Final+Tournament/Qatar/Group+Stage/Portugal+vs+Ghana+-+13423992"
   },
   {
     "date": 1669316400000,
@@ -202,10 +232,12 @@
     "result2": "",
     "stage": {
       "kind": "GS",
-      "groupRound": "G"
+      "groupRound": "G",
+      "round": 1
     },
     "matchStatus": "Forecast",
-    "forecast": false
+    "forecast": false,
+    "linkToBet": "https://www.marathonbet.com/en/betting/Football/Internationals/FIFA+World+Cup/2022/Final+Tournament/Qatar/Group+Stage/Brazil+vs+Serbia+-+13423959"
   },
   {
     "date": 1669370400000,
@@ -215,10 +247,12 @@
     "result2": "",
     "stage": {
       "kind": "GS",
-      "groupRound": "B"
+      "groupRound": "B",
+      "round": 2
     },
     "matchStatus": "Forecast",
-    "forecast": false
+    "forecast": false,
+    "linkToBet": ""
   },
   {
     "date": 1669381200000,
@@ -228,10 +262,12 @@
     "result2": "",
     "stage": {
       "kind": "GS",
-      "groupRound": "A"
+      "groupRound": "A",
+      "round": 2
     },
     "matchStatus": "Forecast",
-    "forecast": false
+    "forecast": false,
+    "linkToBet": ""
   },
   {
     "date": 1669392000000,
@@ -241,10 +277,12 @@
     "result2": "",
     "stage": {
       "kind": "GS",
-      "groupRound": "A"
+      "groupRound": "A",
+      "round": 2
     },
     "matchStatus": "Forecast",
-    "forecast": false
+    "forecast": false,
+    "linkToBet": ""
   },
   {
     "date": 1669402800000,
@@ -254,10 +292,12 @@
     "result2": "",
     "stage": {
       "kind": "GS",
-      "groupRound": "B"
+      "groupRound": "B",
+      "round": 2
     },
     "matchStatus": "Forecast",
-    "forecast": false
+    "forecast": false,
+    "linkToBet": ""
   },
   {
     "date": 1669456800000,
@@ -267,10 +307,12 @@
     "result2": "",
     "stage": {
       "kind": "GS",
-      "groupRound": "D"
+      "groupRound": "D",
+      "round": 2
     },
     "matchStatus": "Forecast",
-    "forecast": false
+    "forecast": false,
+    "linkToBet": ""
   },
   {
     "date": 1669467600000,
@@ -280,10 +322,12 @@
     "result2": "",
     "stage": {
       "kind": "GS",
-      "groupRound": "C"
+      "groupRound": "C",
+      "round": 2
     },
     "matchStatus": "Forecast",
-    "forecast": false
+    "forecast": false,
+    "linkToBet": ""
   },
   {
     "date": 1669478400000,
@@ -293,10 +337,12 @@
     "result2": "",
     "stage": {
       "kind": "GS",
-      "groupRound": "D"
+      "groupRound": "D",
+      "round": 2
     },
     "matchStatus": "Forecast",
-    "forecast": false
+    "forecast": false,
+    "linkToBet": ""
   },
   {
     "date": 1669489200000,
@@ -306,10 +352,12 @@
     "result2": "",
     "stage": {
       "kind": "GS",
-      "groupRound": "C"
+      "groupRound": "C",
+      "round": 2
     },
     "matchStatus": "Forecast",
-    "forecast": false
+    "forecast": false,
+    "linkToBet": ""
   },
   {
     "date": 1669543200000,
@@ -319,10 +367,12 @@
     "result2": "",
     "stage": {
       "kind": "GS",
-      "groupRound": "E"
+      "groupRound": "E",
+      "round": 2
     },
     "matchStatus": "Forecast",
-    "forecast": false
+    "forecast": false,
+    "linkToBet": ""
   },
   {
     "date": 1669554000000,
@@ -332,10 +382,12 @@
     "result2": "",
     "stage": {
       "kind": "GS",
-      "groupRound": "F"
+      "groupRound": "F",
+      "round": 2
     },
     "matchStatus": "Forecast",
-    "forecast": false
+    "forecast": false,
+    "linkToBet": ""
   },
   {
     "date": 1669564800000,
@@ -345,10 +397,12 @@
     "result2": "",
     "stage": {
       "kind": "GS",
-      "groupRound": "F"
+      "groupRound": "F",
+      "round": 2
     },
     "matchStatus": "Forecast",
-    "forecast": false
+    "forecast": false,
+    "linkToBet": ""
   },
   {
     "date": 1669575600000,
@@ -358,10 +412,12 @@
     "result2": "",
     "stage": {
       "kind": "GS",
-      "groupRound": "E"
+      "groupRound": "E",
+      "round": 2
     },
     "matchStatus": "Forecast",
-    "forecast": true
+    "forecast": true,
+    "linkToBet": ""
   },
   {
     "date": 1669629600000,
@@ -371,10 +427,12 @@
     "result2": "",
     "stage": {
       "kind": "GS",
-      "groupRound": "G"
+      "groupRound": "G",
+      "round": 2
     },
     "matchStatus": "Forecast",
-    "forecast": false
+    "forecast": false,
+    "linkToBet": ""
   },
   {
     "date": 1669640400000,
@@ -384,10 +442,12 @@
     "result2": "",
     "stage": {
       "kind": "GS",
-      "groupRound": "H"
+      "groupRound": "H",
+      "round": 2
     },
     "matchStatus": "Forecast",
-    "forecast": false
+    "forecast": false,
+    "linkToBet": ""
   },
   {
     "date": 1669651200000,
@@ -397,10 +457,12 @@
     "result2": "",
     "stage": {
       "kind": "GS",
-      "groupRound": "G"
+      "groupRound": "G",
+      "round": 2
     },
     "matchStatus": "Forecast",
-    "forecast": false
+    "forecast": false,
+    "linkToBet": ""
   },
   {
     "date": 1669662000000,
@@ -410,10 +472,12 @@
     "result2": "",
     "stage": {
       "kind": "GS",
-      "groupRound": "H"
+      "groupRound": "H",
+      "round": 2
     },
     "matchStatus": "Forecast",
-    "forecast": false
+    "forecast": false,
+    "linkToBet": ""
   },
   {
     "date": 1669734000000,
@@ -423,10 +487,12 @@
     "result2": "",
     "stage": {
       "kind": "GS",
-      "groupRound": "A"
+      "groupRound": "A",
+      "round": 3
     },
     "matchStatus": "Forecast",
-    "forecast": false
+    "forecast": false,
+    "linkToBet": ""
   },
   {
     "date": 1669734000000,
@@ -436,10 +502,12 @@
     "result2": "",
     "stage": {
       "kind": "GS",
-      "groupRound": "A"
+      "groupRound": "A",
+      "round": 3
     },
     "matchStatus": "Forecast",
-    "forecast": false
+    "forecast": false,
+    "linkToBet": ""
   },
   {
     "date": 1669748400000,
@@ -449,10 +517,12 @@
     "result2": "",
     "stage": {
       "kind": "GS",
-      "groupRound": "B"
+      "groupRound": "B",
+      "round": 3
     },
     "matchStatus": "Forecast",
-    "forecast": false
+    "forecast": false,
+    "linkToBet": ""
   },
   {
     "date": 1669748400000,
@@ -462,10 +532,12 @@
     "result2": "",
     "stage": {
       "kind": "GS",
-      "groupRound": "B"
+      "groupRound": "B",
+      "round": 3
     },
     "matchStatus": "Forecast",
-    "forecast": true
+    "forecast": false,
+    "linkToBet": ""
   },
   {
     "date": 1669820400000,
@@ -475,10 +547,12 @@
     "result2": "",
     "stage": {
       "kind": "GS",
-      "groupRound": "D"
+      "groupRound": "D",
+      "round": 3
     },
     "matchStatus": "Forecast",
-    "forecast": false
+    "forecast": false,
+    "linkToBet": ""
   },
   {
     "date": 1669820400000,
@@ -488,10 +562,12 @@
     "result2": "",
     "stage": {
       "kind": "GS",
-      "groupRound": "D"
+      "groupRound": "D",
+      "round": 3
     },
     "matchStatus": "Forecast",
-    "forecast": false
+    "forecast": false,
+    "linkToBet": ""
   },
   {
     "date": 1669834800000,
@@ -501,10 +577,12 @@
     "result2": "",
     "stage": {
       "kind": "GS",
-      "groupRound": "C"
+      "groupRound": "C",
+      "round": 3
     },
     "matchStatus": "Forecast",
-    "forecast": true
+    "forecast": true,
+    "linkToBet": ""
   },
   {
     "date": 1669834800000,
@@ -514,10 +592,12 @@
     "result2": "",
     "stage": {
       "kind": "GS",
-      "groupRound": "C"
+      "groupRound": "C",
+      "round": 3
     },
     "matchStatus": "Forecast",
-    "forecast": false
+    "forecast": false,
+    "linkToBet": ""
   },
   {
     "date": 1669906800000,
@@ -527,10 +607,12 @@
     "result2": "",
     "stage": {
       "kind": "GS",
-      "groupRound": "F"
+      "groupRound": "F",
+      "round": 3
     },
     "matchStatus": "Forecast",
-    "forecast": false
+    "forecast": false,
+    "linkToBet": ""
   },
   {
     "date": 1669906800000,
@@ -540,10 +622,12 @@
     "result2": "",
     "stage": {
       "kind": "GS",
-      "groupRound": "F"
+      "groupRound": "F",
+      "round": 3
     },
     "matchStatus": "Forecast",
-    "forecast": true
+    "forecast": true,
+    "linkToBet": ""
   },
   {
     "date": 1669921200000,
@@ -553,10 +637,12 @@
     "result2": "",
     "stage": {
       "kind": "GS",
-      "groupRound": "E"
+      "groupRound": "E",
+      "round": 3
     },
     "matchStatus": "Forecast",
-    "forecast": false
+    "forecast": false,
+    "linkToBet": ""
   },
   {
     "date": 1669921200000,
@@ -566,10 +652,12 @@
     "result2": "",
     "stage": {
       "kind": "GS",
-      "groupRound": "E"
+      "groupRound": "E",
+      "round": 3
     },
     "matchStatus": "Forecast",
-    "forecast": false
+    "forecast": false,
+    "linkToBet": ""
   },
   {
     "date": 1669993200000,
@@ -579,10 +667,12 @@
     "result2": "",
     "stage": {
       "kind": "GS",
-      "groupRound": "H"
+      "groupRound": "H",
+      "round": 3
     },
     "matchStatus": "Forecast",
-    "forecast": false
+    "forecast": false,
+    "linkToBet": ""
   },
   {
     "date": 1669993200000,
@@ -592,10 +682,12 @@
     "result2": "",
     "stage": {
       "kind": "GS",
-      "groupRound": "H"
+      "groupRound": "H",
+      "round": 3
     },
     "matchStatus": "Forecast",
-    "forecast": false
+    "forecast": false,
+    "linkToBet": ""
   },
   {
     "date": 1670007600000,
@@ -605,10 +697,12 @@
     "result2": "",
     "stage": {
       "kind": "GS",
-      "groupRound": "G"
+      "groupRound": "G",
+      "round": 3
     },
     "matchStatus": "Forecast",
-    "forecast": false
+    "forecast": false,
+    "linkToBet": ""
   },
   {
     "date": 1670007600000,
@@ -618,9 +712,11 @@
     "result2": "",
     "stage": {
       "kind": "GS",
-      "groupRound": "G"
+      "groupRound": "G",
+      "round": 3
     },
     "matchStatus": "Forecast",
-    "forecast": false
+    "forecast": false,
+    "linkToBet": ""
   }
 ]

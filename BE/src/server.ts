@@ -2,7 +2,7 @@ import express, { NextFunction } from 'express';
 
 import { errorHandler } from './middlewares/error';
 import * as db from './db';
-import apiRoutes from './routes/api';
+import apiRoutes from './routes/apiRoutes';
 
 const app = express();
 

@@ -33,7 +33,9 @@ export interface IMatch {
   stage: {
     kind: keyof typeof Stages;
     groupRound: string | keyof typeof Rounds;
+    round: number;
   };
   matchStatus: keyof typeof MatchStatus;
   forecast: boolean;
+  linkToBet: string;
 }
