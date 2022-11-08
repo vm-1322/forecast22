@@ -13,5 +13,3 @@ export const media = Object.fromEntries(
 ) as {
   [Property in keyof typeof breakpoints]: string;
 };
-
-console.log(media);

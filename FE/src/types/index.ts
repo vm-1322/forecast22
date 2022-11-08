@@ -20,4 +20,5 @@ export interface ITeam {
   name: string;
   flag?: string;
   link?: string;
+  _id?: string;
 }
