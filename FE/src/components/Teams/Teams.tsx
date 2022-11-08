@@ -22,8 +22,8 @@ const Teams: React.FC<TeamsProps> = ({ className }) => {
     TeamService.getAll()
       .then((response) => {
         setTeams(
-          response.data.teams.sort((a: ITeam, b: ITeam) =>
-            a.name.localeCompare(b.name)
+          response.data.teams.sort((team1: ITeam, team2: ITeam) =>
+            team1.name.localeCompare(team2.name)
           )
         );
       })

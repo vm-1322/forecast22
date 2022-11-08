@@ -40,6 +40,9 @@ const MatchSchema = new Schema<IMatch>({
       type: String,
       trim: true,
     },
+    round: {
+      type: Number,
+    },
   },
   matchStatus: {
     type: String,
@@ -47,6 +50,10 @@ const MatchSchema = new Schema<IMatch>({
   },
   forecast: {
     type: Boolean,
+  },
+  linkToBet: {
+    type: String,
+    trim: true,
   },
 });
 

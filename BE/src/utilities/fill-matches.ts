@@ -17,9 +17,11 @@ const createTeams = async () => {
       stage: {
         kind: item.stage.kind,
         groupRound: item.stage.groupRound,
+        round: item.stage.round,
       },
       matchStatus: item.matchStatus,
       forecast: item.forecast,
+      linkToBet: item.linkToBet,
     }))
   );
 };
